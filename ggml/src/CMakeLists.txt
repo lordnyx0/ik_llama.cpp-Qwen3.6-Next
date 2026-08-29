@@ -1335,6 +1335,8 @@ add_library(ggml
             ggml-backend.cpp
             ggml-moe-prefetch.cpp
             ggml-moe-prefetch.h
+            ggml-qwen38-ssd-stream.cpp
+            ggml-qwen38-ssd-stream.h
             ggml-quants.c
             ggml-quants.h
             ggml-utils.h
